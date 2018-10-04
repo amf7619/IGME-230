@@ -46,8 +46,8 @@ The player will have to learn some strategies in order to overcome this game and
 ---
 
 ## VII. Screenshots
-![screenshot 1](
-![screenshot 2](
+![Menu Screen](https://github.com/amf7619/IGME-230/blob/master/Main%20Menu.png "Menu Screen")
+![Gameplay Screenshot](https://github.com/amf7619/IGME-230/blob/master/Gameplay%20Screenshot.png "Screenshot of Gameplay")
 
 ---
 
